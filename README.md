@@ -19,7 +19,7 @@ This is a lightweight backend for a **To-Do App**, built using **Node.js and Exp
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/todo-app-backend.git
+   git clone https://github.com/Saurabhsaxena81/todo-app-backend.git
    cd todo-app-backend
    ```
 
@@ -54,7 +54,7 @@ This is a lightweight backend for a **To-Do App**, built using **Node.js and Exp
  ┣ 📂 routes
  ┃ ┗ 📜 todoRoutes.js   # To-do management routes
  ┣ 📂 config
- ┃ ┗ 📜 db.js           # Database connection setup (if using MongoDB)
+ ┃ ┗ 📜 db.js           # Database connection setup
  ┣ 📜 .env.example      # Example environment variables
  ┣ 📜 server.js         # Main server file
  ┣ 📜 package.json      # Dependencies and scripts
